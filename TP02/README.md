@@ -1,5 +1,3 @@
-- Link de los modelos Ensamble y Red Neuronal
+- Los modelos y predicciones se encuentran en la carpeta "Modelos y predicciones", el cual incluye un link de Google Drive con los mismos.
 
-> Los modelos de ensamble y red neuronal pesan mas de 25MB (superior al máximo permitido por GitHub), por lo que los mismos se encuentran en Google Drive.
-
-[Modelos](https://drive.google.com/drive/folders/1ImwGdzPB9O3Fu5Em3T-jpQ96Erqb-m8h?usp=sharing)
+> Los modelos que se encuentran en este apartado MAIN son utilizados en el trabajo practico, es decir fueron importados en el mismo.
